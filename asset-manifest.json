@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-game-developer-test/static/css/main.c8245429.css",
+    "main.js": "/web-game-developer-test/static/js/main.12710aae.js",
+    "index.html": "/web-game-developer-test/index.html",
+    "main.c8245429.css.map": "/web-game-developer-test/static/css/main.c8245429.css.map",
+    "main.12710aae.js.map": "/web-game-developer-test/static/js/main.12710aae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8245429.css",
+    "static/js/main.12710aae.js"
+  ]
+}
