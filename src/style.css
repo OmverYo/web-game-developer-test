@@ -1,0 +1,31 @@
+.screen {
+    /* Centres the header */
+    text-align: center;
+}
+
+.viewport {
+    /* Makes viewport 80% for each sides */
+    height: 80vh;
+    width: 80vh;
+
+    /* Adds background colour to identify the viewport */
+    background-color: #282D35;
+
+    /*
+    Leaves a space between the viewport and 
+    the whole page for 10% each to make 20% in total
+    */
+    margin: 10%;
+
+    /* Centres the child-element in the middle of the viewport */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Design of draggable child element */
+.child-element {
+    background-color: #61DAFB;
+    color: black;
+    padding: 1%;
+}
